@@ -1,17 +1,11 @@
 ---
 layout: post
-title:  "Welcome to my book store"
+title:  "PEA_AimeJorge"
 date:   2024-09-29 21:16:16 -0500
 categories: jekyll update
 ---
-Esta es la pagina `Principal` de toda la pagina 
+Esta es la segunda `Pagina` que se hizo 
 
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Somos un negocio que se dedica a la venta de libros y otros articulos interesantes
-
-Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
